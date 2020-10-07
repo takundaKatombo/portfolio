@@ -84,19 +84,19 @@ class _MyHomePageState extends State<MyHomePage> {
                       Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Image.asset(
-                          'scorecard.png',
+                          '../assets/scorecard.png',
                         ),
                       ),
                       Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Image.asset(
-                          'nextHole.png',
+                          '../assets/nextHole.png',
                         ),
                       ),
                       Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Image.asset(
-                          'cancelRound.png',
+                          '../assets/cancelRound.png',
                         ),
                       )
                     ],
