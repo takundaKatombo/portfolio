@@ -117,31 +117,31 @@ class _MyHomePageState extends State<MyHomePage> {
                         Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Image.asset(
-                            'appDrawer.png',
+                            '../assets/appDrawer.png',
                           ),
                         ),
                         Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Image.asset(
-                            'homePage.png',
+                            '../assets/homePage.png',
                           ),
                         ),
                         Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Image.asset(
-                            'searchBrocolli.png',
+                            '../assets/searchBrocolli.png',
                           ),
                         ),
                         Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Image.asset(
-                            'checkout.png',
+                            '../assets/checkout.png',
                           ),
                         ),
                         Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Image.asset(
-                            'saveAddress.png',
+                            '../assets/saveAddress.png',
                           ),
                         )
                       ],
